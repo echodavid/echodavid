@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=3f5efb&height=80&section=header&text=David%20Eduardo%20Espinosa%20Rojas&fontSize=32&fontColor=ffffff" />
 </p>
@@ -15,7 +14,12 @@
 
 <br>
 
-<!-- CARD STYLE SECTION CON FONDO BLANCO, BORDES Y SOMBRA -->
+<p align="center">
+  <a href="https://echodavid.github.io/echodavid.io/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/🌐%20Visita%20mi%20sitio%20web-3f5efb?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=ffffff&color=3f5efb">
+  </a>
+</p>
+
 <div align="center">
 
 <table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 12px 0 #e0e0e0;margin:24px 0;">
@@ -113,7 +117,6 @@
 </td></tr>
 </table>
 
-<!-- CARD 6: CERTIFICACIONES -->
 <table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 12px 0 #e0e0e0;margin:24px 0;">
 <tr><td>
 
@@ -168,6 +171,7 @@
 <p align="center" style="color:#3f5efb;font-size:18px;">
   <b>
     Elegancia, tecnología y pasión por el futuro.<br>
-    Siempre listo para aprender y crear.
+    Siempre listo para aprender y crear.<br>
+    <a href="https://echodavid.github.io/echodavid.io/" style="color:#3f5efb;text-decoration:underline;font-weight:bold;" target="_blank">🌐 Visita mi sitio web profesional</a>
   </b>
 </p>
