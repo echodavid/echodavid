@@ -1,13 +1,6 @@
-<!-- Futuristic Clean Dashboard Profile README for David Eduardo Espinosa Rojas -->
 
-<!-- FONDO SIMULADO CON UNA IMAGEN BLANCA SUAVE Y DETALLES AZULES -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=3f5efb&height=80&section=header&text=David%20Eduardo%20Espinosa%20Rojas&fontSize=32&fontColor=ffffff" />
-</p>
-
-<!-- FONDO GENERAL: SIMULADO CON UNA IMAGEN DEGRADADA BLANCA -->
-<p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.png" width="100%" height="1px" alt="white background" />
 </p>
 
 <p align="center">
@@ -22,11 +15,10 @@
 
 <br>
 
-<!-- CARD STYLE SECTION CON FONDOS BLANCOS Y BORDES -->
+<!-- CARD STYLE SECTION CON FONDO BLANCO, BORDES Y SOMBRA -->
 <div align="center">
 
-<!-- CARD 1: SOBRE MI -->
-<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 0 12px #e0e0e0;margin:24px 0;">
+<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 12px 0 #e0e0e0;margin:24px 0;">
 <tr><td>
 
 <h2 align="center" style="color:#3f5efb;">Sobre mí</h2>
@@ -47,8 +39,7 @@
 </td></tr>
 </table>
 
-<!-- CARD 2: STACK -->
-<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 0 12px #e0e0e0;margin:24px 0;">
+<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 12px 0 #e0e0e0;margin:24px 0;">
 <tr><td>
 
 <h2 align="center" style="color:#3f5efb;">Stack Tecnológico</h2>
@@ -60,8 +51,7 @@
 </td></tr>
 </table>
 
-<!-- CARD 3: HABILIDADES -->
-<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 0 12px #e0e0e0;margin:24px 0;">
+<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 12px 0 #e0e0e0;margin:24px 0;">
 <tr><td>
 
 <h2 align="center" style="color:#3f5efb;">Habilidades</h2>
@@ -79,8 +69,7 @@
 </td></tr>
 </table>
 
-<!-- CARD 4: EDUCACION -->
-<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 0 12px #e0e0e0;margin:24px 0;">
+<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 12px 0 #e0e0e0;margin:24px 0;">
 <tr><td>
 
 <h2 align="center" style="color:#3f5efb;">Educación</h2>
@@ -101,8 +90,7 @@
 </td></tr>
 </table>
 
-<!-- CARD 5: EXPERIENCIA -->
-<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 0 12px #e0e0e0;margin:24px 0;">
+<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 12px 0 #e0e0e0;margin:24px 0;">
 <tr><td>
 
 <h2 align="center" style="color:#3f5efb;">Experiencia</h2>
@@ -126,7 +114,7 @@
 </table>
 
 <!-- CARD 6: CERTIFICACIONES -->
-<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 0 12px #e0e0e0;margin:24px 0;">
+<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 12px 0 #e0e0e0;margin:24px 0;">
 <tr><td>
 
 <h2 align="center" style="color:#3f5efb;">Certificaciones</h2>
@@ -141,8 +129,7 @@
 </td></tr>
 </table>
 
-<!-- CARD 7: IDIOMAS -->
-<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 0 12px #e0e0e0;margin:24px 0;">
+<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 12px 0 #e0e0e0;margin:24px 0;">
 <tr><td>
 
 <h2 align="center" style="color:#3f5efb;">Idiomas</h2>
@@ -155,8 +142,7 @@
 </td></tr>
 </table>
 
-<!-- CARD 8: GITHUB STATS -->
-<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 0 12px #e0e0e0;margin:24px 0;">
+<table width="700px" style="background:#fff;border-radius:24px;border:3px solid #e0e0e0;box-shadow:0 0 0 6px #3f5efb,0 0 12px 0 #e0e0e0;margin:24px 0;">
 <tr><td>
 
 <h2 align="center" style="color:#3f5efb;">Estadísticas de GitHub</h2>
